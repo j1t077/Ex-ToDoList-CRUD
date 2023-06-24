@@ -19,3 +19,11 @@ Añadimos una tarea:
 
 Modificamos la tarea:
 
+![tarea creada1-1](https://github.com/j1t077/Ex-ToDoList-CRUD/assets/96486397/471e60d6-314f-4ea6-a997-2c487d6d90ad)
+
+
+Una vez pinchamos en Edit, nos saldra lo siquiente para poder modificar.
+
+![task modificar](https://github.com/j1t077/Ex-ToDoList-CRUD/assets/96486397/354e4f04-5386-4e53-94f1-43beaacde827)
+
+![task modificar1-1](https://github.com/j1t077/Ex-ToDoList-CRUD/assets/96486397/d3f687df-52d3-4738-80df-92661e769944)
