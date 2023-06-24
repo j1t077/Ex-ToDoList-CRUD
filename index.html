@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>ToDo List</title>
+</head>
+
+<body>
+    <h1>ToDo List</h1>
+    <form onsubmit="addTask(); return false;">
+        <label for="task">New Task:</label>
+        <input type="text" id="task" name="task">
+        <button type="submit">Add Task</button>
+    </form>
+    <table id="taskTable">
+        <thead>
+            <tr>
+                <th>ToDo</th>
+                <th>Options</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <div id="editTaskModal" style="display: none;">
+        <h2>Edit Task</h2>
+        <form>
+            <label for="editTask">Task:</label>
+            <input type="text" id="editTask" name="editTask">
+            <input type="hidden" id="editTaskIndex" name="editTaskIndex">
+            <button type="button" onclick="saveEditedTask()">Modify</button>
+            <button type="button" onclick="closeEditTaskModal()">Cancel</button>
+        </form>
+    </div>
+    <script src="./js/todo.js"></script>
+</body>
+</html>
