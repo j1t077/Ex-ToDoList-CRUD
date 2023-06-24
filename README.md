@@ -33,6 +33,7 @@ Una vez pinchamos en Edit, nos saldra lo siquiente para poder modificar.
 
 Borrar Tarea:
 
-![task borrar1-1](https://github.com/j1t077/Ex-ToDoList-CRUD/assets/96486397/36c7c7fe-e515-4bed-938b-1fc02a693cde)
+![task borrar1-1](https://github.com/j1t077/Ex-ToDoList-CRUD/assets/96486397/23188e34-4ae8-4ba4-82e5-c1650c53fe84)
+
 
 
