@@ -28,6 +28,11 @@ Una vez pinchamos en Edit, nos saldra lo siquiente para poder modificar.
 
 ![task modificar1-1](https://github.com/j1t077/Ex-ToDoList-CRUD/assets/96486397/d3f687df-52d3-4738-80df-92661e769944)
 
+![task modificar2](https://github.com/j1t077/Ex-ToDoList-CRUD/assets/96486397/64032590-083d-44af-844b-83ce1ec55430)
+
 
 Borrar Tarea:
+
+![task borrar1-1](https://github.com/j1t077/Ex-ToDoList-CRUD/assets/96486397/36c7c7fe-e515-4bed-938b-1fc02a693cde)
+
 
